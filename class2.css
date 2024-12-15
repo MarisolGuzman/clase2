@@ -1,0 +1,40 @@
+body {
+    margin: 40px;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    width: 200px;
+    padding: 20px;
+    border: 5px solid rgb(49, 23, 23);
+    background-color: rgb(152, 115, 30);
+}
+
+.content-box {
+    box-sizing: content-box;
+    background-color: rgb(139, 98, 139);
+}
+
+.border-box {
+    box-sizing: border-box;
+    background-color: rgb(198, 73, 96);
+}
+
+.medidas {
+    font-size: 14px;
+    color: rgb(226, 106, 15);
+    margin-top: 5px;
+}
+
+.resalto {
+    background-color: aliceblue;
+    padding: 2px 5px;
+}
+
+{}
+
+{}
